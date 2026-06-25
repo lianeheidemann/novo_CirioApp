@@ -229,7 +229,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## Ilustração 📱
 
-<img width="50%" src="https://github.com/user-attachments/assets/ccb26ff3-f00e-4640-9713-72a860009284" />
+<img width="4096" height="2048" alt="1000336282" src="https://github.com/user-attachments/assets/f29362d6-449f-4676-8de8-f7d4f0e3139a" />
 
 ---
 
