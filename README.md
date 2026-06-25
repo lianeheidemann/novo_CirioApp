@@ -232,3 +232,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
   <br>
   <em>Belém do Pará, Brasil</em>
 </p>
+
+---
+
+## Ilustração
