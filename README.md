@@ -227,14 +227,16 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ---
 
+## Ilustração 📱
+
+<img width="50%" src="https://github.com/user-attachments/assets/ccb26ff3-f00e-4640-9713-72a860009284" />
+
+---
+
 <p align="center">
   <strong>Círio de Nazaré — 2025</strong>
   <br>
   <em>Belém do Pará, Brasil</em>
 </p>
 
----
 
-## Ilustração 📱
-
-<img width="1440" height="2784" alt="1000336214" src="https://github.com/user-attachments/assets/ccb26ff3-f00e-4640-9713-72a860009284" />
