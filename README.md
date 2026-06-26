@@ -1,7 +1,7 @@
 <h1 align="center">CírioApp</h1>
 
 <p align="center">
-  <img width="30%" src="https://github.com/user-attachments/assets/4ea98343-89ab-478d-b472-3c6e8fa95aa9" />
+  <img width="20%" src="https://github.com/user-attachments/assets/4ea98343-89ab-478d-b472-3c6e8fa95aa9" />
 </p>
 
 <p align="center">
