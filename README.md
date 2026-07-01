@@ -37,22 +37,6 @@ CírioApp é um aplicativo mobile desenvolvido em Flutter que centraliza informa
 
 ---
 
-## Arquitetura
-
-Estrutura em camadas com separação de responsabilidades:
-
-```
-lib/
-├── core/              # Constantes e tema
-├── data/              # Modelos, serviços e repositórios
-├── features/          # Funcionalidades autocontidas
-└── shared/            # Componentes reutilizáveis
-```
-
-Gerenciamento de estado: Provider com ChangeNotifier
-
----
-
 ## Como Executar
 
 Pré-requisitos:
@@ -69,46 +53,31 @@ flutter pub get
 flutter run
 ```
 
-Build release:
-```bash
-flutter build apk --release
-```
-
 ---
 
 ## Estrutura de Arquivos
 
 ```
 lib/
-├── main.dart                      (41 linhas)
-├── app.dart                       (21 linhas)
+├── main.dart                      
+├── app.dart                      
 ├── core/
-│   ├── theme/app_theme.dart       (70 linhas)
-│   └── constants/                 (16 linhas)
+│   ├── theme/app_theme.dart       
+│   └── constants/              
 ├── data/
-│   ├── models/                    (123 linhas)
-│   ├── services/                  (339 linhas)
-│   ├── repositories/              (27 linhas)
-│   └── local/                     (43 linhas)
+│   ├── models/                
+│   ├── services/                 
+│   ├── repositories/           
+│   └── local/                 
 ├─�� features/
-│   ├── home/                      (240 linhas)
-│   ├── events/                    (349 linhas)
-│   ├── places/                    (413 linhas)
-│   ├── map/                       (198 linhas)
-│   ├── news/                      (286 linhas)
-│   └── favorites/                 (269 linhas)
-└── shared/widgets/                (94 linhas)
+│   ├── home/         
+│   ├── events/               
+│   ├── places/                   
+│   ├── map/              
+│   ├── news/      
+│   └── favorites/  
+└── shared/widgets/   
 ```
-
----
-
-## Contribuindo
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/MinhaFeature`)
-3. Commit as mudanças (`git commit -m 'feat: descrição'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
 
 ---
 
